@@ -23,4 +23,4 @@
 
 ### Reach me on
 - <a href="https://linkedin.com/in/hafizhuddinakmal/">LinkedIn</a>
-- <a href="https://twitter/hafizhakmal_">Twitter</a>
+- <a href="https://twitter.com/hafizhakmal_">Twitter</a>
