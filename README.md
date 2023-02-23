@@ -1,6 +1,10 @@
-### Hi! 👋 I'm Hafizhuddin Akmal.
+### Hi! 👋
 
-
+# Halo semua! 
+Perkenalkan nama saya **Hafizhuddin Akmal**.\
+Saya seorang **Mahasiswa** di [Universitas Padjadjaran](https://www.unpad.ac.id).\
+Saya juga sedang mendalami ilmu website fullstack programming di [Dicoding](www.dicoding.com).\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hafizhuddinakmal/)ku ya.
 
 
 
